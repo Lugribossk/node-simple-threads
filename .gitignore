@@ -1,0 +1,9 @@
+.idea
+*.iml
+target
+node_modules
+npm-debug.log
+yarn-error.log
+.env.local
+.env*.local
+.parcel-cache
